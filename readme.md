@@ -1,0 +1,1 @@
+This is to serve as a basic boilerplate for creating applications using TypeScript and Django. Basic connections are in place to save the headache of configuration issues in the future.
